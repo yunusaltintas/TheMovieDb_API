@@ -1,0 +1,12 @@
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\netcoreapp3.1\TMDB.Data.deps.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\netcoreapp3.1\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\netcoreapp3.1\TMDB.Data.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.AssemblyInfo.cs
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\netcoreapp3.1\TMDB.Data.runtimeconfig.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\netcoreapp3.1\TMDB.Data.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\netcoreapp3.1\TMDB.Data.genruntimeconfig.cache

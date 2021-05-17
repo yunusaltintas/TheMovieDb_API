@@ -1,0 +1,15 @@
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\TMDB.Data.deps.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\TMDB.Data.runtimeconfig.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\TMDB.Data.runtimeconfig.dev.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\ref\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\bin\Debug\net5.0\TMDB.Data.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.AssemblyInfo.cs
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\ref\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Data\obj\Debug\net5.0\TMDB.Data.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Data.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Repository.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.csprojAssemblyReference.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.AssemblyInfo.cs
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Service.deps.json
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Service.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\ref\TMDB.Service.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Service.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Repository.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\bin\Debug\net5.0\TMDB.Data.pdb
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.csproj.CopyComplete
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\ref\TMDB.Service.dll
+C:\Users\yunus\source\repos\TMDB\TMDB.Service\obj\Debug\net5.0\TMDB.Service.pdb
