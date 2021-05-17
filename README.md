@@ -11,4 +11,14 @@ Kullanılan Kütüphaneler:
 * AutoMapper
 * JWT Authentication
 * Rest-Sharp
-* 
+* Hangfire
+* Mail Service
+
+Best Practices:
+* Dependency injection
+* Unit of Work
+* n-tier Architecture
+* Generic Repository
+* IOptions System Models
+* Global Exception Handler
+* Validation Filter, NotFound Filter
