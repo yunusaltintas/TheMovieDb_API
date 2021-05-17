@@ -1,6 +1,6 @@
 # TheMovieDb_API
 
-https://www.themoviedb.org sitesinden film listesinin çekilmesi ve puan verilmesi projesinin Rest Servisi yazılmıştır.
+https://www.themoviedb.org sitesinden film listesinin her gün bir kere çekilmesi ve puan verilmesi projesinin Rest Servisi yazılmıştır.
 
 Kullanılan Teknolojiler:
 * .Net Core Framework Api
