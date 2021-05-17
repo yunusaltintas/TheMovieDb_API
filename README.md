@@ -22,4 +22,4 @@ Best Practices:
 * Generic Repository
 * IOptions System Models
 * Global Exception Handler
-* Validation Filter, NotFound Filter
+* Validation Filter, NotFound Filter 
