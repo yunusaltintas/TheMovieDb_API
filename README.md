@@ -18,6 +18,7 @@ Best Practices:
 * Dependency injection
 * Unit of Work
 * n-tier Architecture
+* DTO
 * Generic Repository
 * IOptions System Models
 * Global Exception Handler
